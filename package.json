@@ -1,0 +1,20 @@
+{
+  "name": "restapi",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "nodemon index"
+  },
+  "engines": {
+    "node": "14.17.0"
+  },
+  "keywords": [],
+  "author": "Lautaro",
+  "license": "ISC",
+  "dependencies": {
+    "nodemon": "2.0.8",
+    "express": "^4.17.1",
+    "mongoose": "^5.12.12"
+  }
+}
